@@ -5,8 +5,8 @@
 As a passionate Software Developer with expertise in DevOps and AWS cloud architecture, I'm on a mission to enhance user experiences and system efficiencies through robust software solutions. Join me on my 100 days of learning DevOps, where I'll share insights and build a knowledge base to help others on their journey in DevOps and cloud computing.
 
 <p align="left">
-   <a href="https://github.com/YinCheng?tab=followers">
-      <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/YinCheng?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+   <a href="https://github.com/YinCheng-dev?tab=followers">
+      <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/YinCheng-dev?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
 </p>
 
 ---
@@ -16,7 +16,7 @@ As a passionate Software Developer with expertise in DevOps and AWS cloud archit
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
 <img align="left" alt="C#" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"/>
-<img align="left" alt="AWS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg"/>
+<img align="left" alt="AWS" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservice"/>
 <img align="left" alt="Kubernetes" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg"/>
 <img align="left" alt="GitLab" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg"/>
 <img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg"/>
@@ -39,7 +39,7 @@ As a passionate Software Developer with expertise in DevOps and AWS cloud archit
 
 ### 📊 Stats
 
-![Yin's GitHub stats](https://github-readme-stats.vercel.app/api?username=YinCheng&show_icons=true&theme=gruvbox)
+![Yin's GitHub stats](https://github-readme-stats.vercel.app/api?username=YinCheng-dev&show_icons=true&theme=gruvbox)
 
 ---
 
