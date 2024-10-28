@@ -45,5 +45,6 @@ As a passionate Software Developer with expertise in DevOps and AWS cloud archit
 
 ### 🌐 Social Media
 
-Feel free to connect with me on [LinkedIn](https://linkedin.com/in/yin-cheng) to follow my DevOps journey and exchange knowledge on software development and cloud solutions.
+Feel free to connect with me on [LinkedIn]([https://linkedin.com/in/yin-cheng](https://www.linkedin.com/in/yin-cheng-114b35201/)) to follow my DevOps journey and exchange knowledge on software development and cloud solutions.
+
 
